@@ -1,6 +1,7 @@
 # Perspective
 
-[![Build Status](https://travis-ci.org/jpmorganchase/perspective.svg?branch=master)](https://travis-ci.org/jpmorganchase/perspective)
+[![Build Status](https://travis-ci.org/jpmorganchase/perspective.svg?branch=master)](https://travis-ci.org/jpmorganchase/perspective)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftexodus%2Fperspective.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftexodus%2Fperspective?ref=badge_shield)
+
 
 A streaming data visualization engine for Javascript, Perspective makes it simple to build real-time 
 & user configurable analytics entirely in the browser.
@@ -261,3 +262,7 @@ document.addEventListener("WebComponentsReady", function () {
 ```
 
 See [API Docs](https://github.com/jpmorganchase/perspective/tree/master/packages/perspective) for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftexodus%2Fperspective.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftexodus%2Fperspective?ref=badge_large)
